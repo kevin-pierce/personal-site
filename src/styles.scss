@@ -1,1 +1,38 @@
-/* You can add global styles to this file, and also import other style files */
+html { 
+    background-color:#F7F7F9; 
+}
+
+.img-wrapper{
+    margin:20px auto 30px auto;
+    display: block;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    overflow:hidden;
+}
+
+#about-me{
+    justify-content:center;
+    text-align: center;
+}
+
+#profile-pic{
+    display:block;
+    margin:auto; 
+    height:100%;
+    width:auto;
+}
+
+.styled-icon{
+    margin: 0 25px 0 25px;
+    fill:rgb(27,27,27);
+
+    :hover{
+        fill:rgb(7,7,7);
+    }
+}
