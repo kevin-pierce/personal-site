@@ -1,3 +1,5 @@
-## Personal Website
+## (OLD) Personal Website
 
-Something small to better understand Angular - WIP.
+Something small to better understand Angular.
+
+NO LONGER BEING USED
